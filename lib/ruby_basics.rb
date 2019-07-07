@@ -5,3 +5,7 @@ end
 def assign_variable (name)
   name
 end
+
+def argue (whatever)
+  whatever
+end
