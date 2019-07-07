@@ -9,3 +9,6 @@ end
 def argue (whatever)
   whatever
 end
+
+def greeting (greeting, name)
+end
